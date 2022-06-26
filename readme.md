@@ -1,5 +1,6 @@
-
-![](https://thiagocantero.com.br/wp-content/uploads/2022/06/cropped-thicantero_branco.png)
+<div class="container">
+    <img src="https://thiagocantero.com.br/wp-content/uploads/2022/06/cropped-thicantero_branco.png" width="260" height="275" />
+</div>
 
 **#Gerenciamento de Memória em Sistemas Operacionais aplicado para a Programação.**
 
