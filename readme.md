@@ -1,5 +1,7 @@
 
-![](https://thiagocantero.com.br/wp-content/uploads/2022/06/cropped-thicantero_branco.png)**#Exemplo de envio de emails com Laravel.**
+![](https://thiagocantero.com.br/wp-content/uploads/2022/06/cropped-thicantero_branco.png)
+
+**#Gerenciamento de Memória em Sistemas Operacionais aplicado para a Programação.**
 
 *##Neste artigo é demonstrado como as variáveis são alocadas nos endereçamentos da memória primária (RAM), através de um programa simples em C *
 
